@@ -1,7 +1,5 @@
 # Node.js Travel AI
 
-[Node.js Travel AI]
-
 ## Descrição
 
 O Node.js Travel AI é um projeto que utiliza a API do ChatGPT para criar um roteiro de viagem personalizado. Este projeto é um backend que se integra à API do ChatGPT para gerar itinerários de viagem com base nas preferências e nos interesses dos usuários.
