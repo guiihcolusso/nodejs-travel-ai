@@ -1,6 +1,6 @@
 # Node.js Travel AI
 
-![Node.js Travel AI]
+[Node.js Travel AI]
 
 ## Descrição
 
