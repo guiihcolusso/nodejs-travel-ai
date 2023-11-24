@@ -7,7 +7,6 @@ const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-// Use suas rotas depois de configurar o body-parser
 app.use(Routes);
 
 app.listen(backendConfig.ApplicationPort, () => {
